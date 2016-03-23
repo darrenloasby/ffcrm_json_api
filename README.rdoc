@@ -1,3 +1,10 @@
 = FfcrmJsonApi
 
-This project rocks and uses MIT-LICENSE.
+This project is intended to provide a JSON API for Fat Free CRM.
+
+When its done, you will be able to GET, POST, and DELETE from a Fat Free CRM instance via standard RESTful API conventions.
+
+== Development Notes
+
+Rails Engines:
+http://guides.rubyonrails.org/engines.html
